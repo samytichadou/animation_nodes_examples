@@ -13,6 +13,7 @@ Here are the guidelines for proposing a new example :
 - Follow the syntax of existing examples, give a proper and understable name to your example
 - Keep the minimum inside the blend file, one Animation Node nodetree, and simple objects to give a good understanding of your example
 - Keep your nodetree organized and put some text informations in it when necessary with frame objects
+- Deactivate the "Always" parameter in the nodetree execution to prevent long startup time with big ones
 - Put a quick text description in the blend file explaining the purpose of your example, and precising the version of Blender, the OS, and the version of Animation Nodes used
 - Put an image (screenshot or render) previewing the example purpose
 - Put a quick video under 5 mo showing your example in action encoded in h264/mp4
