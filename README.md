@@ -1,4 +1,4 @@
-# animation_nodes_examples
+# Animation Nodes Examples
 A collection of clean Animation Nodes examples and templates
 
 This is a community driven github, don't hesitate to propose your own example following the guidelines.
