@@ -26,10 +26,10 @@ tonton (Samy Tichadou)
 
 created with Blender 2.80 and Animation Nodes 2.1.4 on windows 10
 
-![wave_sprite_on_plane preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/Fill_plane/AN_EXAMPLE_fill_plane_preview.png)
+![wave_sprite_on_plane preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/wave_sprite_on_plane/AN_EXAMPLE_wave_sprite_on_plane_preview.png)
 
 Video preview
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/Fill_plane/AN_EXAMPLE_fill_plane_video.mp4
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/wave_sprite_on_plane/AN_EXAMPLE_wave_sprite_on_plane_video.m4v
 
 Blend file
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/Fill_plane/AN_EXAMPLE_fill_plane.blend
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/wave_sprite_on_plane/AN_EXAMPLE_wave_sprite_on_plane.blend
