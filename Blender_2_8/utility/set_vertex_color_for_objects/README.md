@@ -13,3 +13,11 @@ Cheers
 tonton (Samy Tichadou)
 
 created with Blender 2.80 and Animation Nodes 2.1.4 on ubuntu 19.04
+
+![set_vertex_color_for_objects](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/set_vertex_color_for_objects/AN_EXAMPLE_set_vertex_color_for_objects_preview.png)
+
+Video preview
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/set_vertex_color_for_objects/AN_EXAMPLE_set_vertex_color_for_objects_video.mp4
+
+Blend file
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/set_vertex_color_for_objects/AN_EXAMPLE_set_vertex_color_for_objects.blend
