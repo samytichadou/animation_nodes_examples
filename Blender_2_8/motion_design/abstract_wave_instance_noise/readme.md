@@ -1,7 +1,7 @@
 # abstract_wave_instance_noise
 
 This nodetree is a motion design preset based on a cinema 4d tutorial :
-    
+https://www.youtube.com/watch?v=xT-Wuqdtcjc&list=PL57BAmPXpXuPldSjGCUkHY6QAT6Zn6cd7&index=10&t=0s    
 
 It allows to duplicate a sprite on a grid and move it through a falloff (noise falloff here, but you can use others)
 
