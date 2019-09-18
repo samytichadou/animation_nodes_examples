@@ -16,6 +16,6 @@ Here are the guidelines for proposing a new example :
 - Deactivate the "Always" parameter in the nodetree execution to prevent long startup time with big ones
 - Put a quick text description in the blend file explaining the purpose of your example, and precising the version of Blender, the OS, and the version of Animation Nodes used
 - Put an image (screenshot or render) previewing the example purpose
-- Put a quick video under 5 mo showing your example in action encoded in h264/mp4
+- Put a quick video under 5 mo showing your example in action encoded in h264/mp4 or a streaming link to a video (youtube, vimeo...)
 - Put a readme.md file in your example folder with your text description, markdown link to the image preview 
   ( ![name of the image](link of the image) ), link to the video and link to the blend file
