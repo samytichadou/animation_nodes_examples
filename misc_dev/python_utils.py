@@ -12,8 +12,7 @@ def is_connected():
         create_connection(("www.duckduckgo.com", 80))
         return True
     except OSError:
-        pass
-    return False
+        return False
 
 
 ##########################
