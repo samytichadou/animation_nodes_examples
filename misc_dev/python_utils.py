@@ -12,8 +12,7 @@ def is_connected():
         create_connection(("www.duckduckgo.com", 80))
         return True
     except OSError:
-        pass
-    return False
+        return False
 
 
 ##########################
@@ -45,6 +44,27 @@ try:
 except OSError as error: 
     print(error) 
     print("File path can not be removed") 
+    
+    
+##########################
+#get node attribute
+##########################
+import bpy
+
+node = bpy.data.materials['Material'].node_tree.nodes["Principled BSDF"]
+
+for prop in node.bl_rna.properties:
+    print(prop.identifier)
+    print(getattr(node, prop.identifier, "No value"))
+
+
+##########################
+#set node attribute
+##########################
+import bpy
+
+node = bpy.data.materials['Material'].node_tree.nodes["Principled BSDF"]
+setattr(node, 'use_custom_color',True)
 
 
 ##########################
