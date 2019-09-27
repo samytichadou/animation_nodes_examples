@@ -1,7 +1,8 @@
 import bpy
 import json
 
-json_file = r"/home/tonton/Bureau/test.json"
+#json_file = r"/home/tonton/Bureau/test.json"
+json_file = r"C:\Users\crossrivergraph8\Desktop\test.json"
 
 #READ FUNCTION
 def read_json(filepath):
@@ -13,8 +14,17 @@ def read_json(filepath):
 print()
 print()
 datas=read_json(json_file)
-print(datas['nodes']['Material Output'])
-print(datas['nodes']['Material Output']['bl_label'])
+#print(datas['nodes'])
 
 for n in datas['nodes']:
-    print(n)
+    print()
+    print()
+    print(n['name'])
+    print()
+    print('INPUTS')
+    for i in n['inputs']:
+        print(i['name'])
+    print()
+    print('OUTPUTS')
+    for o in n['outputs']:
+        print(o['name'])
