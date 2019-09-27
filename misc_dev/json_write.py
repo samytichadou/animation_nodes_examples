@@ -6,12 +6,13 @@ import json
 #nodetree = bpy.data.node_groups['NodeTree']
 nodetree=bpy.data.materials['Material'].node_tree
 
-json_file = r"/home/tonton/Bureau/test.json"
+json_file = r"C:\Users\crossrivergraph8\Desktop\test.json"
+#json_file = r"/home/tonton/Bureau/test.json"
 
 #JSON
 data = {}
 nodetree_coll = data['nodetree'] = {}
-nodes_coll = data['nodes'] = {}
+nodes_coll = data['nodes'] = []
 #FUNCTION
 def iterate(obj, dataset):
     for prop in obj.bl_rna.properties:
@@ -36,20 +37,30 @@ def iterate(obj, dataset):
 
 #DOING
 iterate(nodetree, nodetree_coll)
+i = -1
 for node in nodetree.nodes :
-    nd = nodes_coll[node.name] = {}
-    iterate(node, nd)
-    inputs_coll = nd["inputs"] = {}
-    outputs_coll = nd["outputs"] = {} 
-               
-    iterate(node, nd)
-
+    i += 1
+    nodes_coll.append({})
+    iterate(node, nodes_coll[i])
+    
+    #inputs_coll = nd["inputs"] = {}
+    #outputs_coll = nd["outputs"] = {} 
+    data['nodes'][i].update({'inputs' : []})
+    data['nodes'][i].update({'outputs' : []})
+    
+    i1 = -1
+    i2 = -1
+    
     for ipt in node.inputs:
-        input = inputs_coll[ipt.name] = {}
+        i1 += 1
+        data['nodes'][i]['inputs'].append({})
+        input = data['nodes'][i]['inputs'][i1]
         iterate(ipt, input)
         
     for opt in node.outputs:
-        output = outputs_coll[opt.name] = {}
+        i2 += 1
+        data['nodes'][i]['outputs'].append({})     
+        output = data['nodes'][i]['outputs'][i2]   
         iterate(opt, output)
     
     
