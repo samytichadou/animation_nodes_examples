@@ -1,7 +1,7 @@
 import bpy, json
 
 # VARIABLES
-debug = 0
+debug = 1
 nodetree = bpy.data.node_groups['node_creation']
 json_file = r"/home/tonton/Taf/code/animation_nodes_examples/misc_dev/test.json"
 
@@ -12,8 +12,8 @@ nodes_coll = data['nodes'] = []
 common_node_attributes = {'bl_idname', 'location', 'name', 'label', 'color',
                           'use_custom_color', 'useNetworkColor', 'width', 'height',
                           }
-common_input_output_attributes = {'hide', 'name'
-                                  }
+common_input_attributes = {'hide', 'name'
+                           }
 
 
 # RETURN LIST
@@ -28,28 +28,56 @@ def returnListIfArray(object):
         return object
 
 
-# GET NODES
-def storeNodesInfos(node, dataset):
-    # common attributes
-    for attr in common_node_attributes:
-        value = getattr(node, attr, "No value")
-        dataset.update({attr: returnListIfArray(value)})
-    # specific attributes
-    for attr in node.__annotations__:
-        value = getattr(node, attr, "No value")
-        dataset.update({attr: returnListIfArray(value)})
+# CHECK SERIALIZABLE
+def isSerializable(x):
+    try:
+        json.dumps(x)
+        return True
+    except (TypeError, OverflowError):
+        return False
 
 
-# GET INPUTS
-def storeInputOutputInfos(input, dataset):
+# STORE INFOS
+def storeObjectInfos(object, dataset, objecttype):
+    if debug: print(objecttype + " - " + object.name)
+    if objecttype == 'nodes':
+        common = common_node_attributes
+    elif objecttype == 'inputs':
+        common = common_input_attributes
     # common attributes
-    for attr in common_input_output_attributes:
-        value = getattr(input, attr, "No value")
-        dataset.update({attr: returnListIfArray(value)})
+    try:
+        for attr in common:
+            # for attr in object.bl_rna.properties:
+            value = returnListIfArray(getattr(object, attr, "No value"))
+            if isSerializable(value):
+                dataset.update({attr: value})
+                if debug: print("--- adding to dataset - " + attr + " - " + str(value))
+            else:
+                if debug: print("xxx not serializable - " + attr + " - " + str(value))
+    except AttributeError as err:
+        if debug:
+            print("xxx error when adding to dataset - " + attr)
+            print("xxx " + str(err))
     # specific attributes
-    for attr in input.__annotations__:
-        value = getattr(input, attr, "No value")
-        dataset.update({attr: returnListIfArray(value)})
+    try:
+        for attr in object.__annotations__:
+            value = getattr(object, attr, "No value")
+            if isSerializable(returnListIfArray(value)):
+                dataset.update({attr: returnListIfArray(value)})
+                if debug: print("--- adding to dataset - " + attr)
+            else:
+                if debug: print("xxx not serializable - " + attr)
+    except AttributeError as err:
+        if debug:
+            print("xxx error when adding to dataset - " + attr)
+            print("xxx " + str(err))
+
+
+# STORE PARENT
+def storeNodeParentObject(node, dataset):
+    # get node's parent object
+    if node.parent is not None:
+        dataset.update({'parent': node.parent.name})
 
 
 # ITERATE THROUGH NODETREE
@@ -58,16 +86,16 @@ for node in nodetree.nodes:
     nodes_coll.append({})
     node_coll = nodes_coll[n]
     inputs_coll = node_coll['inputs'] = []
-    storeNodesInfos(node, node_coll)
+    storeObjectInfos(node, node_coll, 'nodes')
+    storeNodeParentObject(node, node_coll)
     # ITERATE THROUGH INPUTS
     ni = 0
     for inpt in node.inputs:
         inputs_coll.append({})
         input_coll = inputs_coll[ni]
-        storeInputOutputInfos(inpt, input_coll)
+        storeObjectInfos(inpt, input_coll, 'inputs')
         ni += 1
     n += 1
-    # ITERATE THROUGH OUTPUTS
 
 # CREATE JSON
 with open(json_file, "w") as write_file:

@@ -4,7 +4,24 @@
             "inputs": [
                 {
                     "hide": false,
-                    "name": "Element",
+                    "name": "Matrices",
+                    "text": "custom name",
+                    "removeable": false,
+                    "moveable": false,
+                    "moveGroup": 0,
+                    "isUsed": true,
+                    "useIsUsedProperty": false,
+                    "dataIsModified": true,
+                    "defaultDrawType": "TEXT_PROPERTY"
+                },
+                {
+                    "hide": false,
+                    "name": "Falloff",
+                    "value": 1.0
+                },
+                {
+                    "hide": false,
+                    "name": "Translation",
                     "value": [
                         0.0,
                         0.0,
@@ -13,46 +30,40 @@
                 },
                 {
                     "hide": false,
-                    "name": "Element",
+                    "name": "Rotation",
                     "value": [
                         0.0,
                         0.0,
-                        10.0
-                    ]
-                },
-                {
-                    "hide": true,
-                    "name": "Element",
-                    "value": [
-                        0.0,
-                        0.0,
-                        25.0
+                        0.0
                     ]
                 },
                 {
                     "hide": false,
-                    "name": "...",
-                    "margin": 9.999999747378752e-05
+                    "name": "Scale",
+                    "value": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
                 }
             ],
-            "label": "",
-            "use_custom_color": true,
             "location": [
-                459.6988830566406,
-                -641.09716796875
+                549.7426147460938,
+                -216.00294494628906
             ],
-            "height": 100.0,
-            "width": 140.0,
-            "name": "Create List",
+            "bl_idname": "an_OffsetMatrixNode",
             "color": [
                 0.699999988079071,
                 0.699999988079071,
                 0.699999988079071
             ],
+            "use_custom_color": true,
+            "label": "",
             "useNetworkColor": true,
-            "bl_idname": "an_CreateListNode",
-            "assignedType": "Vector",
-            "hideInputs": false
+            "width": 200.0,
+            "height": 100.0,
+            "name": "Offset Matrix",
+            "useMatrixList": true
         }
     ]
 }
