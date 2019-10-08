@@ -1,0 +1,69 @@
+{
+    "nodes": [
+        {
+            "inputs": [
+                {
+                    "hide": false,
+                    "name": "Matrices",
+                    "text": "custom name",
+                    "removeable": false,
+                    "moveable": false,
+                    "moveGroup": 0,
+                    "isUsed": true,
+                    "useIsUsedProperty": false,
+                    "dataIsModified": true,
+                    "defaultDrawType": "TEXT_PROPERTY"
+                },
+                {
+                    "hide": false,
+                    "name": "Falloff",
+                    "value": 1.0
+                },
+                {
+                    "hide": false,
+                    "name": "Translation",
+                    "value": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "hide": false,
+                    "name": "Rotation",
+                    "value": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "hide": false,
+                    "name": "Scale",
+                    "value": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            ],
+            "location": [
+                549.7426147460938,
+                -216.00294494628906
+            ],
+            "bl_idname": "an_OffsetMatrixNode",
+            "color": [
+                0.699999988079071,
+                0.699999988079071,
+                0.699999988079071
+            ],
+            "use_custom_color": true,
+            "label": "",
+            "useNetworkColor": true,
+            "width": 200.0,
+            "height": 100.0,
+            "name": "Offset Matrix",
+            "useMatrixList": true
+        }
+    ]
+}
