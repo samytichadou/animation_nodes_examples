@@ -20,8 +20,8 @@ created with Blender 2.80 and Animation Nodes 2.1.4 on windows 10
 ![procedural_spring preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring_preview.png)
 
 Video preview
-https://raw.githubusercontent.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring_video.m4v
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring_video.m4v?raw=true
 
 Blend file
-https://raw.githubusercontent.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring.blend
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring.blend?raw=true
 
