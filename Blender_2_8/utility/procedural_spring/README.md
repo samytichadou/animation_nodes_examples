@@ -17,11 +17,11 @@ tonton (Samy Tichadou)
 
 created with Blender 2.80 and Animation Nodes 2.1.4 on windows 10
 
-![get_size_through_bounding_box preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/get_size_through_bounding_box/AN_EXAMPLE_get_size_through_bounding_box_preview.png)
+![procedural_spring preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring_preview.png)
 
 Video preview
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/get_size_through_bounding_box/AN_EXAMPLE_get_size_through_bounding_box_video.m4v
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring_video.m4v
 
 Blend file
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/get_size_through_bounding_box/AN_EXAMPLE_get_size_through_bounding_box.blend
+https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/procedural_spring/AN_EXAMPLE_procedura_spring.blend
 
