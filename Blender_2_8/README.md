@@ -11,3 +11,4 @@
 - [get_size_through_bounding_box](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/get_size_through_bounding_box)
 - [procedural_spring](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/procedural_spring)
 - [set_vertex_color_for_objects](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/set_vertex_color_for_objects)
+- [text_animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/text_animation)
