@@ -24,6 +24,7 @@ created with Blender 2.80 and Animation Nodes 2.1.4 on windows 10
 ![abstract_wave_instance_noise preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/abstract_wave_instance_noise/AN_EXAMPLE_abstract_wave_instance_noise_preview.png)
 
 Video preview
+[![Alt text](https://img.youtube.com/vi/t_uYw1zt6n0?/0.jpg)](https://www.youtube.com/watch?v=t_uYw1zt6n0?)
 https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/abstract_wave_instance_noise/AN_EXAMPLE_abstract_wave_instance_noise_video.m4v?raw=true
 
 Blend file
