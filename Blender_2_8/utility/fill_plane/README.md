@@ -19,8 +19,6 @@ created with Blender 2.80 and Animation Nodes 2.1.4 on windows 10
 
 ![fill_plane preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/fill_plane/AN_EXAMPLE_fill_plane_preview.png)
 
-Video preview
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/fill_plane/AN_EXAMPLE_fill_plane_video.mp4?raw=true
+[Video preview](https://youtu.be/Y_LdB8h_rrE?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
 
-Blend file
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/fill_plane/AN_EXAMPLE_fill_plane.blend?raw=true
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/fill_plane/AN_EXAMPLE_fill_plane.blend?raw=true)

@@ -20,8 +20,6 @@ created with Blender 2.83 and Animation Nodes 2.1.7 on windows 10
 
 ![text_animation preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/text_animation/AN_EXAMPLE_text_animation_preview.png)
 
-Video preview
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/text_animation/AN_EXAMPLE_text_animation_video.m4v?raw=true
+[Video preview](https://youtu.be/t6enh6z4SNM?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
 
-Blend file
-https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/text_animation/AN_EXAMPLE_text_animation.blend?raw=true
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/text_animation/AN_EXAMPLE_text_animation.blend?raw=true)
