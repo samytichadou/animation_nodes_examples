@@ -16,6 +16,6 @@ To use this,
 - Changing delay falloff from "Create splines in x axis and mix..." frame to make alternative effect
 - basic material is also applied
 
-Author: Hari Sreedhar [BlueFox Creation](https://www.youtube.com/bluefoxcreations)
+Author: Hari Sreedhar ([BlueFox Creation](https://www.youtube.com/bluefoxcreations))
 
 created with Blender 2.90 and Animation Nodes 2.1.7 on Linux Mint 20
