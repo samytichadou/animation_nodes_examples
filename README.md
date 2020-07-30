@@ -19,3 +19,5 @@ Here are the guidelines for proposing a new example :
 - Put a quick video under 5 mo showing your example in action encoded in h264/mp4 or a streaming link to a video (youtube, vimeo...)
 - Put a readme.md file in your example folder with your text description, markdown link to the image preview 
   ( ![name of the image](link of the image) ), link to the video and link to the blend file
+
+You can also come discuss these examples in the [Blender Artist thread](https://blenderartists.org/t/animation-nodes-templates-examples-library/1216808) !
