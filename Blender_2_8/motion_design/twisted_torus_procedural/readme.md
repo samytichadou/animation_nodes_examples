@@ -12,6 +12,7 @@ The entire object follows a controller object.
 
 To use this, 
 - set the sprite object and in Inputs category
+- hide it if necessary with Object Visibility Output node (in Sprite Hide category)
 - set the twist of the circle points in Inputs category
 - set the base circle parameters in Inputs category
 - set the Animation speed in Inputs category
@@ -30,7 +31,7 @@ Cheers
 
 tonton (Samy Tichadou)
 
-created with Blender 2.80 and Animation Nodes 2.1.4 on windows 10
+created with Blender 2.83.3 and Animation Nodes 2.1.7 on windows 10
 
 ![abstract_wave_instance_noise preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/twisted_torus_procedural/AN_EXAMPLE_abstract_twisted_torus_procedural_preview.png)
 
