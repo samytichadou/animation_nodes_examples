@@ -1,11 +1,11 @@
-# get_size_through_bounding_box
+# Get Size Through Bounding Box
 
 This nodetree is a utility to get an object size using its bounding box.
 It also gives the bounding box center.
 
 To use this, 
-- set the object input in Inputs category
-- use the outputs in Outputs category to create some effects
+- set the object input in Subprogram
+- use the outputs of the Subprogram to create some effects
 
 When moving or scaling the object, the viewers in Viewers category will be updated to check the nodetree is working correctly.
 
@@ -13,7 +13,7 @@ Cheers
 
 tonton (Samy Tichadou)
 
-created with Blender 2.80 and Animation Nodes 2.1.4 on ubuntu 19.04
+created with Blender 2.83.3 and Animation Nodes 2.1.7 on Windows 10
 
 ![get_size_through_bounding_box preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/get_size_through_bounding_box/AN_EXAMPLE_get_size_through_bounding_box_preview.png)
 
