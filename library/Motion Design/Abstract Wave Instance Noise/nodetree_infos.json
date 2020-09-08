@@ -1,0 +1,12 @@
+{
+    "name": "Abstract Wave Instance Noise",
+    "description": "Duplicate a sprite on a grid and move it through a falloff",
+    "blender_version": "2.83",
+    "an_version": "2.1.7",
+    "tags": "",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/image_preview.png",
+    "video_preview_url": "https://www.youtube.com/watch?v=t_uYw1zt6n0&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/Abstract%20Wave%20Instance%20Noise.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/readme.md",
+    "hash": "bkuZsKfvg6"
+}

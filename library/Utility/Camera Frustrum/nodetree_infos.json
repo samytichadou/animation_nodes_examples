@@ -1,0 +1,12 @@
+{
+    "name": "Camera Frustrum",
+    "description": "Hide objects outside of camera view",
+    "blender_version": "2.83",
+    "an_version": "2.1.7",
+    "tags": "",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/image_preview.png",
+    "video_preview_url": "https://www.youtube.com/watch?v=YrVsBZghcWI&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/Camera%20Frustrum.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/README.md",
+    "hash": "YeAQfmfiIp"
+}

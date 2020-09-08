@@ -1,0 +1,159 @@
+{
+    "nodetrees": [
+        {
+            "name": "Abstract Wave Instance Noise",
+            "description": "Duplicate a sprite on a grid and move it through a falloff",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=t_uYw1zt6n0&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/Abstract%20Wave%20Instance%20Noise.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/readme.md",
+            "hash": "bkuZsKfvg6",
+            "category": "Motion Design"
+        },
+        {
+            "name": "Knitting Procedural Animation",
+            "description": "Procedural knitting animation",
+            "blender_version": "2.9",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=yKgWqSFTgvE&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku&index=10",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/Knitting%20Procedural%20Animation.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/README.md",
+            "hash": "5sPN7mXUCl",
+            "category": "Motion Design"
+        },
+        {
+            "name": "Twisted Torus Procedural",
+            "description": "Create animated procedural torus through object instances",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=jzHuaBHP058&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/Twisted%20Torus%20Procedural.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/readme.md",
+            "hash": "I5iWypq0wF",
+            "category": "Motion Design"
+        },
+        {
+            "name": "Wave Sprite on Plane",
+            "description": "Duplicate objects on a plane and animate them with wave effect and vertex colors",
+            "blender_version": "2.8",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=KF06_6Insnc&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane/Wave%20Sprite%20on%20Plane.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane/README.md",
+            "hash": "hdjo5SZydr",
+            "category": "Motion Design"
+        },
+        {
+            "name": "Camera Frustrum",
+            "description": "Hide objects outside of camera view",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=YrVsBZghcWI&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/Camera%20Frustrum.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/README.md",
+            "hash": "YeAQfmfiIp",
+            "category": "Utility"
+        },
+        {
+            "name": "Fill Plane",
+            "description": "Get a proper grid out of plane shape",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Fill%20Plane/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=Y_LdB8h_rrE&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Fill%20Plane/Fill%20Plane.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Fill%20Plane/README.md",
+            "hash": "MlGMh8z33u",
+            "category": "Utility"
+        },
+        {
+            "name": "Get Size Through Bounding Box",
+            "description": "Get object size through bounding box",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=E-jYhH7qWqA&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/Get%20Size%20Through%20Bounding%20Box.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/README.md",
+            "hash": "CG1fNRnDZU",
+            "category": "Utility"
+        },
+        {
+            "name": "Procedural Spring",
+            "description": "Utility to create a procedural spring",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=FxMaA0sqnoU&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/Procedural%20Spring.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/README.md",
+            "hash": "1Citngkc3N",
+            "category": "Utility"
+        },
+        {
+            "name": "Set Vertex Color for Objects",
+            "description": "Utility to change vertex color of an array of objects",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=dzgT9opN3RM&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/Set%20Vertex%20Color%20for%20Objects.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/README.md",
+            "hash": "QWjeWXpifc",
+            "category": "Utility"
+        },
+        {
+            "name": "Text Animation",
+            "description": "Base setup for procedural text animation",
+            "blender_version": "2.83",
+            "an_version": "2.1.7",
+            "tags": "",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=t6enh6z4SNM&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/Text%20Animation.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/README.md",
+            "hash": "IqDbJ8XSrS",
+            "category": "Utility"
+        }
+    ],
+    "blender_versions": [
+        {
+            "name": "2.83"
+        },
+        {
+            "name": "2.9"
+        },
+        {
+            "name": "2.8"
+        }
+    ],
+    "an_versions": [
+        {
+            "name": "2.1.7"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Motion Design"
+        },
+        {
+            "name": "Utility"
+        }
+    ],
+    "manifest_hash": "x6HgzrEiDq"
+}

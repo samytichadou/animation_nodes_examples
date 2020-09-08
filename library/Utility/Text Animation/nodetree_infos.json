@@ -1,0 +1,12 @@
+{
+    "name": "Text Animation",
+    "description": "Base setup for procedural text animation",
+    "blender_version": "2.83",
+    "an_version": "2.1.7",
+    "tags": "",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/image_preview.png",
+    "video_preview_url": "https://www.youtube.com/watch?v=t6enh6z4SNM&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/Text%20Animation.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/README.md",
+    "hash": "IqDbJ8XSrS"
+}

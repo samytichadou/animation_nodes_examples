@@ -1,0 +1,12 @@
+{
+    "name": "Twisted Torus Procedural",
+    "description": "Create animated procedural torus through object instances",
+    "blender_version": "2.83",
+    "an_version": "2.1.7",
+    "tags": "",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/image_preview.png",
+    "video_preview_url": "https://www.youtube.com/watch?v=jzHuaBHP058&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/Twisted%20Torus%20Procedural.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/readme.md",
+    "hash": "I5iWypq0wF"
+}

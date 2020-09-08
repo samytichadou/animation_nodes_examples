@@ -1,0 +1,12 @@
+{
+    "name": "Set Vertex Color for Objects",
+    "description": "Utility to change vertex color of an array of objects",
+    "blender_version": "2.83",
+    "an_version": "2.1.7",
+    "tags": "",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/image_preview.png",
+    "video_preview_url": "https://www.youtube.com/watch?v=dzgT9opN3RM&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/Set%20Vertex%20Color%20for%20Objects.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/README.md",
+    "hash": "QWjeWXpifc"
+}
