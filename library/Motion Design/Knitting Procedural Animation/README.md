@@ -20,8 +20,8 @@ Author: Hari Sreedhar ([BlueFox Creation](https://www.youtube.com/bluefoxcreatio
 
 created with Blender 2.90 and Animation Nodes 2.1.7 on Linux Mint 20
 
-![knitting_procedural_animation preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/knitting_procedural_animation/AN_EXAMPLE_Knitting_procedural_animation_preview.png)
+![knitting_procedural_animation preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/image_preview.png)
 
 [Video preview](https://www.youtube.com/watch?v=yKgWqSFTgvE&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku&index=10)
 
-[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/motion_design/knitting_procedural_animation/AN_EXAMPLE_Knitting_procedural_animation.blend?raw=true)
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/Knitting%20Procedural%20Animation.blend?raw=true)
