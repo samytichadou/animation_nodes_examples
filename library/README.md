@@ -1,15 +1,15 @@
 # Blender 2.8x Animation Nodes Templates
 
-[Motion Design](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/motion_design) :
-- [Abstract Wave Instance Noise](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/motion_design/abstract_wave_instance_noise)
-- [Knitting Procedural Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/motion_design/knitting_procedural_animation)
-- [Twisted Torus Procedural](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/motion_design/twisted_torus_procedural)
-- [Wave Sprite on Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/motion_design/wave_sprite_on_plane)
+[Motion Design](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design) :
+- [Abstract Wave Instance Noise](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise)
+- [Knitting Procedural Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Knitting%20Procedural%20Animation)
+- [Twisted Torus Procedural](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Twisted%20Torus%20Procedural)
+- [Wave Sprite on Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane)
 
-[Utility](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility) :
-- [Camera Frustrum](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/camera_frustrum)
-- [Fill Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/fill_plane)
-- [Get Size through Bounding Box](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/get_size_through_bounding_box)
-- [Procedural Spring](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/procedural_spring)
-- [Set Vertex Color for Objects](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/set_vertex_color_for_objects)
-- [Text Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/Blender_2_8/utility/text_animation)
+[Utility](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility) :
+- [Camera Frustrum](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Camera%20Frustrum)
+- [Fill Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Fill%20Plane)
+- [Get Size through Bounding Box](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Get%20Size%20Through%20Bounding%20Box)
+- [Procedural Spring](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Procedural%20Spring)
+- [Set Vertex Color for Objects](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Set%20Vertex%20Color%20for%20Objects)
+- [Text Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Text%20Animation)
