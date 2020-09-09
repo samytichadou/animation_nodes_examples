@@ -16,8 +16,8 @@ tonton (Samy Tichadou)
 
 created with Blender 2.83.3 and Animation Nodes 2.1.7 on windows 10
 
-![camera_frustrum preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/camera_frustrum/AN_EXAMPLE_camera_frustrum_preview.png)
+![camera_frustrum preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/image_preview.png)
 
 [Video preview](https://youtu.be/YrVsBZghcWI?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
 
-[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/camera_frustrum/AN_EXAMPLE_camera_frustrum.blend?raw=true)
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/Camera%20Frustrum.blend?raw=true)

@@ -14,8 +14,8 @@ tonton (Samy Tichadou)
 
 created with Blender 2.83.3 and Animation Nodes 2.1.7 on Windows 10
 
-![set_vertex_color_for_objects](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/set_vertex_color_for_objects/AN_EXAMPLE_set_vertex_color_for_objects_preview.png)
+![set_vertex_color_for_objects](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/image_preview.png)
 
 [Video preview](https://youtu.be/dzgT9opN3RM?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
 
-[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/set_vertex_color_for_objects/AN_EXAMPLE_set_vertex_color_for_objects.blend?raw=true)
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/Set%20Vertex%20Color%20for%20Objects.blend?raw=true)

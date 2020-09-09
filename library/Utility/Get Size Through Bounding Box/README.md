@@ -15,9 +15,9 @@ tonton (Samy Tichadou)
 
 created with Blender 2.83.3 and Animation Nodes 2.1.7 on Windows 10
 
-![get_size_through_bounding_box preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/get_size_through_bounding_box/AN_EXAMPLE_get_size_through_bounding_box_preview.png)
+![get_size_through_bounding_box preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/image_preview.png)
 
 [Video preview](https://youtu.be/E-jYhH7qWqA?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
 
-[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/Blender_2_8/utility/get_size_through_bounding_box/AN_EXAMPLE_get_size_through_bounding_box.blend?raw=true)
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/Get%20Size%20Through%20Bounding%20Box.blend?raw=true)
 
