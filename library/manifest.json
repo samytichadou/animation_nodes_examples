@@ -139,5 +139,18 @@
             "name": "Utility"
         }
     ],
-    "manifest_hash": "NYMcsdLbjl"
+    "tags": [
+        "abstract",
+        "procedural",
+        "motion design",
+        "subprogram",
+        "ready to use",
+        "object instancer",
+        "animation",
+        "falloff",
+        "mograph",
+        "noise",
+        "pattern"
+    ],
+    "manifest_hash": "aVepsVzcQz"
 }
