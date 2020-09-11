@@ -4,7 +4,7 @@
 - [Abstract Wave Instance Noise](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise)
 - [Knitting Procedural Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Knitting%20Procedural%20Animation)
 - [Twisted Torus Procedural](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Twisted%20Torus%20Procedural)
-- [Wave Sprite on Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane)
+[comment]: <> (- [Wave Sprite on Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane))
 
 [Utility](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility) :
 - [Camera Frustrum](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Camera%20Frustrum)
