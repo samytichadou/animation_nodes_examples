@@ -3,10 +3,10 @@
     "description": "Procedural knitting animation",
     "blender_version": "2.9",
     "an_version": "2.1.7",
-    "tags": "",
+    "tags": "procedural,motion design,subprogram,ready to use,object instancer,animation,mograph,pattern",
     "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/image_preview.png",
     "video_preview_url": "https://www.youtube.com/watch?v=yKgWqSFTgvE&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku&index=10",
     "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/Knitting%20Procedural%20Animation.blend?raw=true",
     "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Knitting%20Procedural%20Animation/README.md",
-    "hash": "5sPN7mXUCl"
+    "hash": "5oCKdufluF"
 }
