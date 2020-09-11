@@ -119,25 +119,15 @@
         }
     ],
     "blender_versions": [
-        {
-            "name": "2.83"
-        },
-        {
-            "name": "2.9"
-        }
+        "2.83",
+        "2.9"
     ],
     "an_versions": [
-        {
-            "name": "2.1.7"
-        }
+        "2.1.7"
     ],
     "categories": [
-        {
-            "name": "Motion Design"
-        },
-        {
-            "name": "Utility"
-        }
+        "Motion Design",
+        "Utility"
     ],
     "tags": [
         "abstract",
@@ -152,5 +142,5 @@
         "noise",
         "pattern"
     ],
-    "manifest_hash": "aVepsVzcQz"
+    "manifest_hash": "IPWUOvSc2a"
 }
