@@ -44,12 +44,12 @@
             "description": "Hide objects outside of camera view",
             "blender_version": "2.83",
             "an_version": "2.1.7",
-            "tags": "",
+            "tags": "utility,object visibility,subprogram,loop,ready to use,camera",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=YrVsBZghcWI&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/Camera%20Frustrum.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Camera%20Frustrum/README.md",
-            "hash": "YeAQfmfiIp",
+            "hash": "aQUJrb7B31",
             "category": "Utility"
         },
         {
@@ -57,12 +57,12 @@
             "description": "Get a proper grid out of plane shape",
             "blender_version": "2.83",
             "an_version": "2.1.7",
-            "tags": "",
+            "tags": "utility,grid,subprogram,plane,generate",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Fill%20Plane/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=Y_LdB8h_rrE&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Fill%20Plane/Fill%20Plane.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Fill%20Plane/README.md",
-            "hash": "MlGMh8z33u",
+            "hash": "AbcOnBHoQC",
             "category": "Utility"
         },
         {
@@ -70,12 +70,12 @@
             "description": "Get object size through bounding box",
             "blender_version": "2.83",
             "an_version": "2.1.7",
-            "tags": "",
+            "tags": "utility,size,subprogram",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=E-jYhH7qWqA&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/Get%20Size%20Through%20Bounding%20Box.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/README.md",
-            "hash": "CG1fNRnDZU",
+            "hash": "mSPovI7d76",
             "category": "Utility"
         },
         {
@@ -83,12 +83,12 @@
             "description": "Utility to create a procedural spring",
             "blender_version": "2.83",
             "an_version": "2.1.7",
-            "tags": "",
+            "tags": "utility,ready to use,procedural,modelling,subprogram",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=FxMaA0sqnoU&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/Procedural%20Spring.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/README.md",
-            "hash": "1Citngkc3N",
+            "hash": "i0bPDJAfrH",
             "category": "Utility"
         },
         {
@@ -96,12 +96,12 @@
             "description": "Utility to change vertex color of an array of objects",
             "blender_version": "2.83",
             "an_version": "2.1.7",
-            "tags": "",
+            "tags": "utility,subprogram,vertex color",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=dzgT9opN3RM&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/Set%20Vertex%20Color%20for%20Objects.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Set%20Vertex%20Color%20for%20Objects/README.md",
-            "hash": "QWjeWXpifc",
+            "hash": "hW77l9zgq4",
             "category": "Utility"
         },
         {
@@ -109,12 +109,12 @@
             "description": "Base setup for procedural text animation",
             "blender_version": "2.83",
             "an_version": "2.1.7",
-            "tags": "",
+            "tags": "utility,animation,procedural,text,mograph,ready to use",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=t6enh6z4SNM&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/Text%20Animation.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Text%20Animation/README.md",
-            "hash": "IqDbJ8XSrS",
+            "hash": "k3ri0RAXt7",
             "category": "Utility"
         }
     ],
@@ -140,7 +140,18 @@
         "falloff",
         "mograph",
         "noise",
-        "pattern"
+        "pattern",
+        "utility",
+        "object visibility",
+        "loop",
+        "camera",
+        "grid",
+        "plane",
+        "generate",
+        "size",
+        "modelling",
+        "vertex color",
+        "text"
     ],
-    "manifest_hash": "IPWUOvSc2a"
+    "manifest_hash": "YuysVHUQPR"
 }

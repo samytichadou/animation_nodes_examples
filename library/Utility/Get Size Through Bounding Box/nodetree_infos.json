@@ -3,10 +3,10 @@
     "description": "Get object size through bounding box",
     "blender_version": "2.83",
     "an_version": "2.1.7",
-    "tags": "",
+    "tags": "utility,size,subprogram",
     "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/image_preview.png",
     "video_preview_url": "https://www.youtube.com/watch?v=E-jYhH7qWqA&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
     "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/Get%20Size%20Through%20Bounding%20Box.blend?raw=true",
     "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Get%20Size%20Through%20Bounding%20Box/README.md",
-    "hash": "CG1fNRnDZU"
+    "hash": "mSPovI7d76"
 }

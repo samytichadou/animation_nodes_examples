@@ -3,10 +3,10 @@
     "description": "Utility to create a procedural spring",
     "blender_version": "2.83",
     "an_version": "2.1.7",
-    "tags": "",
+    "tags": "utility,ready to use,procedural,modelling,subprogram",
     "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/image_preview.png",
     "video_preview_url": "https://www.youtube.com/watch?v=FxMaA0sqnoU&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
     "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/Procedural%20Spring.blend?raw=true",
     "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/README.md",
-    "hash": "1Citngkc3N"
+    "hash": "i0bPDJAfrH"
 }
