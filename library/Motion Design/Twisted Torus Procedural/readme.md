@@ -11,19 +11,12 @@ Additionnaly, a scale effect is applied to sprites to make them bigger when they
 The entire object follows a controller object.
 
 To use this, 
-- set the sprite object and in Inputs category
-- hide it if necessary with Object Visibility Output node (in Sprite Hide category)
-- set the twist of the circle points in Inputs category
-- set the base circle parameters in Inputs category
-- set the Animation speed in Inputs category
-- set the scale of duplicated objects in the Inputs category
-- set the Sprite grid parameters in Inputs category
-- toggle Scale effect On/Off and its Max Scale in Inputs category
-- set the speed of the animation (noise is driven by time) in the Inputs category
-- set the Matrix scale, Sprite rotation and scale in Inputs category
-- set the Torus controller in Inputs category
+- set the sprite object and in Object Instancer (hide it if necessary from same node)
+- set the divisions of Original Circle and Replicated Ones in Torus PreProcess Subprogram
+- tweak the settings in Torus Creation Subprogram
+- if needed, tweak the Scale Effect inside the Torus Creation Subprogram (point distance falloff node)
 
-You can optionnially check with the Viewers the appearance of your original circle, sprite grid, and the resulting Torus, but careful, this will not be rendered.
+You can optionnially check with the Viewers (inside the Torus Creation Subprogram) the appearance of your original circle, sprite grid, and the resulting Torus, but careful, this will not be rendered.
 
 Careful, a custom trigger is set for updating the nodetree when Controller object changed (T-bar, Auto Execution panel)
 
@@ -31,7 +24,7 @@ Cheers
 
 tonton (Samy Tichadou)
 
-created with Blender 2.83.3 and Animation Nodes 2.1.7 on windows 10
+created with Blender 2.83.5 and Animation Nodes 2.1.8 on windows 10
 
 ![abstract_wave_instance_noise preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/image_preview.png)
 
