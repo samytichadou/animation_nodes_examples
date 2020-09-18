@@ -30,13 +30,26 @@
             "name": "Twisted Torus Procedural",
             "description": "Create animated procedural torus through object instances",
             "blender_version": "2.83",
-            "an_version": "2.1.7",
-            "tags": "abstract,procedural,motion design,ready to use,object instancer,animation,mograph",
+            "an_version": "2.1.8",
+            "tags": "abstract,procedural,motion design,ready to use,object instancer,animation,mograph,subprogram",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/image_preview.png",
             "video_preview_url": "https://www.youtube.com/watch?v=jzHuaBHP058&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/Twisted%20Torus%20Procedural.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Twisted%20Torus%20Procedural/readme.md",
-            "hash": "ivPKxYmjqv",
+            "hash": "lWUodOH0BE",
+            "category": "Motion Design"
+        },
+        {
+            "name": "Wave Sprite on Plane",
+            "description": "Duplicate objects on a plane and animate them with wave effect and vertex colors",
+            "blender_version": "2.8.3",
+            "an_version": "2.1.8",
+            "tags": "abstract,animation,motion design,noise,subprogram,vertex color,falloff,grid,mograph,plane,ready to use,object instancer,procedural",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=KF06_6Insnc&feature=youtu.be&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane/Wave%20Sprite%20on%20Plane.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane/README.md",
+            "hash": "U8vurNjmoz",
             "category": "Motion Design"
         },
         {
@@ -120,10 +133,12 @@
     ],
     "blender_versions": [
         "2.83",
-        "2.9"
+        "2.9",
+        "2.8.3"
     ],
     "an_versions": [
-        "2.1.7"
+        "2.1.7",
+        "2.1.8"
     ],
     "categories": [
         "Motion Design",
@@ -152,6 +167,6 @@
         "utility",
         "vertex color"
     ],
-    "manifest_hash": "dUjk1Si16D",
+    "manifest_hash": "nfVeOMuIko",
     "k_v": "001"
 }
