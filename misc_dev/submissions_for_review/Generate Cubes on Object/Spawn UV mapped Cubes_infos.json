@@ -1,0 +1,12 @@
+{
+    "name": "Spawn UV mapped Cubes",
+    "description": "this creates cubes on random polygoncenters",
+    "blender_version": "2.83.6",
+    "an_version": "2.1.7",
+    "tags": "generate, normal, generate, Spawn Object, Particle effect, Hair, buildings, procedural mesh, uv map,utility",
+    "image_preview_url": "",
+    "video_preview_url": "",
+    "file_url": "",
+    "readme_url": "",
+    "hash": "dbHKqbQVEX"
+}
