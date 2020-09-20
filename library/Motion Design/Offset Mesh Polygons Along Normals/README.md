@@ -11,8 +11,8 @@ Author : faaaaarck
 
 created with Blender 2.83.6 and Animation Nodes 2.1.7 on windows 10
 
-![Image preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/image_preview.png)
+![Image preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/image_preview.png)
 
-[Video preview](https://youtu.be/t_uYw1zt6n0?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
+[Video preview](https://www.youtube.com/watch?v=ZgJBvBjcnhg&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku&index=12)
 
-[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise/Abstract%20Wave%20Instance%20Noise.blend?raw=true)
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/Offset%20Mesh%20Polygons%20Along%20Normals.blend?raw=true)
