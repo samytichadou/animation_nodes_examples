@@ -4,9 +4,9 @@
     "blender_version": "2.83.6",
     "an_version": "2.1.7",
     "tags": "normal,polygon,offset,explode,disappear,falloff,ready to use,motion design,subprogram",
-    "image_preview_url": "",
-    "video_preview_url": "https://youtu.be/ZgJBvBjcnhg",
-    "file_url": "",
-    "readme_url": "",
-    "hash": "bZpJrZuaH2"
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/image_preview.png",
+    "video_preview_url": "https://www.youtube.com/watch?v=ZgJBvBjcnhg&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku&index=12",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/Offset%20Mesh%20Polygons%20Along%20Normals.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/README.md",
+    "hash": "eRvxuRyLoW"
 }

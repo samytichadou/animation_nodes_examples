@@ -27,6 +27,19 @@
             "category": "Motion Design"
         },
         {
+            "name": "Offset Mesh Polygons Along Normals",
+            "description": "Offset polygons of a mesh along their normals",
+            "blender_version": "2.83.6",
+            "an_version": "2.1.7",
+            "tags": "normal,polygon,offset,explode,disappear,falloff,ready to use,motion design,subprogram",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/image_preview.png",
+            "video_preview_url": "https://www.youtube.com/watch?v=ZgJBvBjcnhg&list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku&index=12",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/Offset%20Mesh%20Polygons%20Along%20Normals.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals/README.md",
+            "hash": "eRvxuRyLoW",
+            "category": "Motion Design"
+        },
+        {
             "name": "Twisted Torus Procedural",
             "description": "Create animated procedural torus through object instances",
             "blender_version": "2.83",
@@ -133,7 +146,8 @@
     ],
     "blender_versions": [
         "2.83",
-        "2.9"
+        "2.9",
+        "2.83.6"
     ],
     "an_versions": [
         "2.1.7",
@@ -147,6 +161,8 @@
         "abstract",
         "animation",
         "camera",
+        "disappear",
+        "explode",
         "falloff",
         "generate",
         "grid",
@@ -154,10 +170,13 @@
         "mograph",
         "motion design",
         "noise",
+        "normal",
         "object instancer",
         "object visibility",
+        "offset",
         "pattern",
         "plane",
+        "polygon",
         "procedural",
         "ready to use",
         "size",
@@ -166,6 +185,6 @@
         "utility",
         "vertex color"
     ],
-    "manifest_hash": "lmnWKOfjY6",
+    "manifest_hash": "9gh1sqdSvr",
     "k_v": "001"
 }
