@@ -5,6 +5,7 @@
 - [Knitting Procedural Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Knitting%20Procedural%20Animation)
 - [Twisted Torus Procedural](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Twisted%20Torus%20Procedural)
 - [Wave Sprite on Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Wave%20Sprite%20on%20Plane)
+- [Offset Mesh Polygons Along Normals](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Offset%20Mesh%20Polygons%20Along%20Normals)
 
 [Utility](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility) :
 - [Camera Frustrum](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Camera%20Frustrum)
