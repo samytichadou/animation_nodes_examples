@@ -1,0 +1,12 @@
+{
+    "name": "Offset Mesh Polygons Along Normals",
+    "description": "Offset polygons of a mesh along their normals",
+    "blender_version": "2.83.6",
+    "an_version": "2.1.7",
+    "tags": "normal,polygon,offset,explode,disappear,falloff,ready to use,motion design,subprogram",
+    "image_preview_url": "",
+    "video_preview_url": "",
+    "file_url": "",
+    "readme_url": "",
+    "hash": "AHMq3WOlFr"
+}
