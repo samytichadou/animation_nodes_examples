@@ -1,12 +1,12 @@
 {
     "name": "AN Procedural Camera",
-    "description": "A Nodetree to create Cameramovements",
+    "description": "procedural camera",
     "blender_version": "2.83.6",
     "an_version": "2.1.7",
-    "tags": "camera, procedural camera, dolly, pan, elevator, Turntable, cirlce,utility",
+    "tags": "procedural,camera,utility,ready to use,animation,random",
     "image_preview_url": "",
     "video_preview_url": "",
     "file_url": "",
     "readme_url": "",
-    "hash": "ervwCFDkGD"
+    "hash": "GV3HSrbFeA"
 }
