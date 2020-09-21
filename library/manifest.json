@@ -105,6 +105,19 @@
             "category": "Utility"
         },
         {
+            "name": "Procedural Animated Camera",
+            "description": "Procedural Animation for Camera to showcase an object",
+            "blender_version": "2.83.6",
+            "an_version": "2.1.7",
+            "tags": "procedural,camera,utility,ready to use,animation,random",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/image_preview.png",
+            "video_preview_url": "",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/Procedural%20Animated%20Camera.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/readme.md",
+            "hash": "GV3HSrbFeA",
+            "category": "Utility"
+        },
+        {
             "name": "Procedural Spring",
             "description": "Utility to create a procedural spring",
             "blender_version": "2.83",
@@ -178,6 +191,7 @@
         "plane",
         "polygon",
         "procedural",
+        "random",
         "ready to use",
         "size",
         "subprogram",
@@ -185,6 +199,6 @@
         "utility",
         "vertex color"
     ],
-    "manifest_hash": "9gh1sqdSvr",
+    "manifest_hash": "ervwCFDkGD",
     "k_v": "001"
 }
