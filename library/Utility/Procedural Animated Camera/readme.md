@@ -65,8 +65,8 @@ Author : faaaaarck
 
 created with Blender 2.83.6 and Animation Nodes 2.1.7 on windows 10
 
-![Image preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/image_preview.png)
+![Image preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/image_preview.png)
 
-[Video preview](https://youtu.be/FxMaA0sqnoU?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)
+<!---[Video preview](https://youtu.be/FxMaA0sqnoU?list=PL57BAmPXpXuOLKN-CjVJPmWcsqEqg7Fku)-->
 
-[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Spring/Procedural%20Spring.blend?raw=true)
+[Blend file](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/Procedural%20Animated%20Camera.blend?raw=true)
