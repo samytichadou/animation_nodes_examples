@@ -63,7 +63,7 @@ Animationnodes will pick a random value between the min and max for every cam-pa
 
 Author : faaaaarck
 
-created with Blender 2.83.6 and Animation Nodes 2.1.7 on windows 10
+created with Blender 2.83.6 and Animation Nodes 2.1.8 on windows 10
 
 ![Image preview](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/image_preview.png)
 

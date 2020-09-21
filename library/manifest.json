@@ -108,13 +108,13 @@
             "name": "Procedural Animated Camera",
             "description": "Procedural Animation for Camera to showcase an object",
             "blender_version": "2.83.6",
-            "an_version": "2.1.7",
+            "an_version": "2.1.8",
             "tags": "procedural,camera,utility,ready to use,animation,random",
             "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/image_preview.png",
             "video_preview_url": "",
             "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/Procedural%20Animated%20Camera.blend?raw=true",
             "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Procedural%20Animated%20Camera/readme.md",
-            "hash": "GV3HSrbFeA",
+            "hash": "oSYOQ7EJsb",
             "category": "Utility"
         },
         {
@@ -199,6 +199,6 @@
         "utility",
         "vertex color"
     ],
-    "manifest_hash": "ervwCFDkGD",
+    "manifest_hash": "fR5C6EuFOq",
     "k_v": "001"
 }
