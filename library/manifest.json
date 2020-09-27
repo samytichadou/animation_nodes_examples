@@ -105,6 +105,19 @@
             "category": "Utility"
         },
         {
+            "name": "Invert Negative Numbers",
+            "description": "Invert all negative numbers in list",
+            "blender_version": "2.83.5",
+            "an_version": "2.1.8",
+            "tags": "subprogram,utility,number,list",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Invert%20Negative%20Numbers/image_preview.png",
+            "video_preview_url": "",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Invert%20Negative%20Numbers/Invert%20Negative%20Numbers.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Invert%20Negative%20Numbers/readme.md",
+            "hash": "q34LEmI4Rl",
+            "category": "Utility"
+        },
+        {
             "name": "Procedural Animated Camera",
             "description": "Procedural Animation for Camera to showcase an object",
             "blender_version": "2.83.6",
@@ -160,7 +173,8 @@
     "blender_versions": [
         "2.83",
         "2.9",
-        "2.83.6"
+        "2.83.6",
+        "2.83.5"
     ],
     "an_versions": [
         "2.1.7",
@@ -179,11 +193,13 @@
         "falloff",
         "generate",
         "grid",
+        "list",
         "modelling",
         "mograph",
         "motion design",
         "noise",
         "normal",
+        "number",
         "object instancer",
         "object visibility",
         "offset",
@@ -199,6 +215,6 @@
         "utility",
         "vertex color"
     ],
-    "manifest_hash": "fR5C6EuFOq",
+    "manifest_hash": "ZkpEeeQlkd",
     "k_v": "001"
 }

@@ -1,0 +1,12 @@
+{
+    "name": "Invert Negative Numbers",
+    "description": "Invert all negative numbers in list",
+    "blender_version": "2.83.5",
+    "an_version": "2.1.8",
+    "tags": "subprogram,utility,number,list",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Invert%20Negative%20Numbers/image_preview.png",
+    "video_preview_url": "",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Invert%20Negative%20Numbers/Invert%20Negative%20Numbers.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Invert%20Negative%20Numbers/readme.md",
+    "hash": "q34LEmI4Rl"
+}
