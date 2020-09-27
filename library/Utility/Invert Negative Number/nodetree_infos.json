@@ -3,7 +3,7 @@
     "description": "Invert all negative numbers in list",
     "blender_version": "2.83.5",
     "an_version": "2.1.8",
-    "tags": "subprogram,utility,number",
+    "tags": "subprogram,utility,number,list",
     "image_preview_url": "",
     "video_preview_url": "",
     "file_url": "",
