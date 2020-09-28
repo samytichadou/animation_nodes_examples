@@ -12,6 +12,7 @@
 - [Convert Frames to Timecode](https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Convert%20Frames%20to%20Timecode)
 - [Fill Plane](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Fill%20Plane)
 - [Get Size through Bounding Box](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Get%20Size%20Through%20Bounding%20Box)
+- [Invert Negative Numbers](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Invert%20Negative%20Numbers)
 - [Procedural Spring](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Procedural%20Spring)
 - [Set Vertex Color for Objects](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Set%20Vertex%20Color%20for%20Objects)
 - [Text Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Text%20Animation)
