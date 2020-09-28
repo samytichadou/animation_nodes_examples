@@ -79,6 +79,19 @@
             "category": "Utility"
         },
         {
+            "name": "Convert Frames to Timecode",
+            "description": "Convert Frame Number into Timecode or subtitles TC",
+            "blender_version": "2.83.5",
+            "an_version": "2.1.8",
+            "tags": "subprogram,utility,timecode,number,time",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Convert%20Frames%20to%20Timecode/image_preview.png",
+            "video_preview_url": "",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Convert%20Frames%20to%20Timecode/Convert%20Frames%20to%20Timecode.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Convert%20Frames%20to%20Timecode/readme.md",
+            "hash": "hsdeZ8SRSa",
+            "category": "Utility"
+        },
+        {
             "name": "Fill Plane",
             "description": "Get a proper grid out of plane shape",
             "blender_version": "2.83",
@@ -212,9 +225,11 @@
         "size",
         "subprogram",
         "text",
+        "time",
+        "timecode",
         "utility",
         "vertex color"
     ],
-    "manifest_hash": "ZkpEeeQlkd",
+    "manifest_hash": "svdKT44FPd",
     "k_v": "001"
 }
