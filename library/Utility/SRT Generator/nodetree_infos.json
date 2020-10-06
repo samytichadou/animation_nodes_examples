@@ -1,0 +1,12 @@
+{
+    "name": "SRT Generator",
+    "description": "Create SRT formatted text from Timeline",
+    "blender_version": "2.83.5",
+    "an_version": "2.1.8",
+    "tags": "sequencer,video,utility,subprogram,text,time,timecode,subtitle",
+    "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/SRT%20Generator/image_preview.png",
+    "video_preview_url": "",
+    "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/SRT%20Generator/SRT%20Generator.blend?raw=true",
+    "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/SRT%20Generator/README.md",
+    "hash": "OMdp3wa4SM"
+}
