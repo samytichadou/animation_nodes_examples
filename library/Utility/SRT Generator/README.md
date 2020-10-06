@@ -8,6 +8,8 @@ To use it :
 - Set Include Muted Strips if needed
 - Set specific Timeline Scene if needed
 
+The nodetree uses two script subprograms, don't remove them to keep the nodetree usable.
+
 NB : The nodetree does not have Auto Execution On by default, user has to manually execute it to create the srt
 
 Author : tonton (Samy Tichadou)
