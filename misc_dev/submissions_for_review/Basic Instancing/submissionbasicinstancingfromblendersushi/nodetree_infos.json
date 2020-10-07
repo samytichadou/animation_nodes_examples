@@ -1,0 +1,12 @@
+{
+    "name": "Basic Object Instancer",
+    "description": "Generate Object Instances on a grid",
+    "blender_version": "2.90.1",
+    "an_version": "2.1.7",
+    "tags": "grid,generate,object instancer,utility",
+    "image_preview_url": "",
+    "video_preview_url": "None",
+    "file_url": "",
+    "readme_url": "",
+    "hash": "oOZmCjRjR8"
+}
