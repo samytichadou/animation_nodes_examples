@@ -1,6 +1,7 @@
 # Animation Nodes Templates
 
 [Motion Design](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design) :
+- [Abstract Splines Procedural](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Abstract%20Splines%20Procedural)
 - [Abstract Wave Instance Noise](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Abstract%20Wave%20Instance%20Noise)
 - [Knitting Procedural Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Knitting%20Procedural%20Animation)
 - [Twisted Torus Procedural](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Twisted%20Torus%20Procedural)
