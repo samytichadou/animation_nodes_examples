@@ -8,6 +8,8 @@ To use it, simply use the Abstract Spline Effect subprogram.
 - The Procedural Animation parameters allow you to make curves appear and disappear in a given time, if you don't want this effect, uncheck it and use Manual Anim Start and Manual Anim End parameters
 - You can optionally use a Taper Curve object to control the thickness of the created Curves, it will override the Radius parameters of the nodetree
 
+Keep in mind only points of the Guide Spline are used to process the curves paths, so tangents will not be taken into account.
+
 tonton (Samy Tichadou)
 
 created with Blender 2.83.7 and Animation Nodes 2.1.8 on windows 10
