@@ -1,10 +1,10 @@
 {
     "news": [
         {
-            "name": "this is the first news",
-            "url": "www.google.com",
-            "nodetree_name": "Twisted Torus Procedural"
+            "name": "New Abstract Splines Procedural nodes, create random curve around a guide and animate them in one click !",
+            "url": "https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Motion%20Design/Abstract%20Splines%20Procedural",
+            "nodetree_name": "Abstract Splines Procedural"
         }
     ],
-    "newsfeed_hash": "pYrcdGEwZ2"
+    "newsfeed_hash": "DiV9qla5jo"
 }
