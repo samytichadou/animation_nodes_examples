@@ -1,13 +1,10 @@
 {
-    "news":[
+    "news": [
         {
-            "name": "news1",
-            "url": ""
-        },
-        {
-            "name": "news2",
-            "url":""
+            "name": "this is the first news",
+            "url": "www.google.com",
+            "nodetree_name": "Twisted Torus Procedural"
         }
     ],
-    "newsfeed_hash": "5odciE5VeK"
+    "newsfeed_hash": "pYrcdGEwZ2"
 }
