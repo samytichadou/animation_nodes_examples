@@ -1,6 +1,13 @@
 {
     "news":[
-        "news1",
-        "news2"
-    ]
+        {
+            "name": "news1",
+            "url": ""
+        },
+        {
+            "name": "news2",
+            "url":""
+        }
+    ],
+    "newsfeed_hash": "5odciE5VeK"
 }
