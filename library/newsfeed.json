@@ -1,9 +1,9 @@
 {
     "news": [
         {
-            "name": "This panel is brand new, so new features could come with new bugs, don't hesitate to report them by clicking the button under !",
-            "url": "https://github.com/samytichadou/an_template_addon/issues/new",
-            "nodetree_name": ""
+            "name": "New Simple Cube Generator example, a basic procedural 2x2x2 primitive !",
+            "url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Simple%20Cube%20Generator/README.md",
+            "nodetree_name": "Simple Cube Generator"
         },
         {
             "name": "New Abstract Splines Procedural nodes, create random curve around a guide and animate them in one click !",
@@ -11,10 +11,10 @@
             "nodetree_name": "Abstract Splines Procedural"
         },
         {
-            "name": "New Simple Cube Generator example, a basic procedural 2x2x2 primitive !",
-            "url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Simple%20Cube%20Generator/README.md",
-            "nodetree_name": "Simple Cube Generator"
+            "name": "This panel is brand new, so new features could come with new bugs, don't hesitate to report them by clicking the button under !",
+            "url": "https://github.com/samytichadou/an_template_addon/issues/new",
+            "nodetree_name": ""
         }
     ],
-    "newsfeed_hash": "cMOU8s9Pts"
+    "newsfeed_hash": "OFTFszkmzi"
 }
