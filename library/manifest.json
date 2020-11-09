@@ -196,6 +196,19 @@
             "category": "Utility"
         },
         {
+            "name": "Simple Cube Generator",
+            "description": "Simple 2x2x2 procedural cube generator",
+            "blender_version": "2.83.7",
+            "an_version": "2.1.8",
+            "tags": "procedural,simple,generate,subprogram,utility,modelling,grid",
+            "image_preview_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Simple%20Cube%20Generator/image_preview.png",
+            "video_preview_url": "",
+            "file_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Simple%20Cube%20Generator/Simple%20Cube%20Generator.blend?raw=true",
+            "readme_url": "https://github.com/samytichadou/animation_nodes_examples/blob/master/library/Utility/Simple%20Cube%20Generator/README.md",
+            "hash": "ukTqMEOHU4",
+            "category": "Utility"
+        },
+        {
             "name": "Text Animation",
             "description": "Base setup for procedural text animation",
             "blender_version": "2.83",
@@ -251,6 +264,7 @@
         "random",
         "ready to use",
         "sequencer",
+        "simple",
         "size",
         "subprogram",
         "subtitle",
@@ -261,7 +275,7 @@
         "vertex color",
         "video"
     ],
-    "manifest_hash": "7CXzH2kv7H",
+    "manifest_hash": "ve7IHX68AR",
     "k_v": "001",
-    "newsfeed_hash": "n2BhTyIIRR"
+    "newsfeed_hash": "cMOU8s9Pts"
 }
