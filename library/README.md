@@ -17,5 +17,6 @@
 - [Procedural Animated Camera](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Procedural%20Animated%20Camera)
 - [Procedural Spring](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Procedural%20Spring)
 - [Set Vertex Color for Objects](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Set%20Vertex%20Color%20for%20Objects)
+- [Simple Cube Generator](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Simple%20Cube%20Generator)
 - [SRT Generator](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/SRT%20Generator)
 - [Text Animation](https://github.com/samytichadou/animation_nodes_examples/tree/master/library/Utility/Text%20Animation)
